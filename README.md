@@ -82,6 +82,12 @@ Two demo videos (2–3 minutes each) demonstrate:
 - Problem identification
 - Solution walkthrough
 - AI usage in real-world scenarios
+## 🎥 Demo Videos (Google Drive)
+
+Task 1 – AI-based Customer Interaction (Chatbot Demo):  
+👉 https://drive.google.com/file/d/1v-8H6VrbdjtsN-hi6yY3Nf3W10P-Dks9/view?usp=drive_link
+Task 2 – Internal Business Automation (CRUD + AI):  
+👉 https://drive.google.com/file/d/1iE2eXRrJZPBSVZnorQZmmEue_Fv9s9Fr/view?usp=drive_link
 
 ---
 
