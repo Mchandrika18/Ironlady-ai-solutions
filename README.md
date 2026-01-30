@@ -34,7 +34,13 @@ An AI-powered chatbot called **Iron Lady AI Assistant** that:
 
 ### Tools Used
 - Thinkstack AI (Chatbot Builder)
-- Iron Lady website as training source
+- Iron Lady website as a training source
+  
+### Screenshots – Task 1: AI Customer Interaction
+
+![Chatbot Preview](screenshots/task1-chatbot-preview.png)
+
+![Chatbot Response](screenshots/task1-chatbot-response.png)
 
 ---
 
@@ -62,6 +68,12 @@ This demonstrates a complete **CRUD flow**.
 ### Tools Used
 - Google Sheets (data storage)
 - Thinkstack AI (Q&A-based AI logic)
+  
+### Screenshots – Task 2: Internal Business Automation
+
+![Learner Management Sheet](screenshots/task2-learner-sheet.png)
+
+![Status Update Flow](screenshots/task2-status-update.png)
 
 ---
 
